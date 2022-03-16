@@ -3,10 +3,45 @@
   <component name="ChangeListManager">
     <list default="true" id="4acec2d6-6a26-489c-b632-d6e1d23850c4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../jekyll-serif-theme/_data/contact.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../jekyll-serif-theme/_data/contact.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jekyll-serif-theme/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/../jekyll-serif-theme/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jekyll-serif-theme/services.md" beforeDir="false" afterPath="$PROJECT_DIR$/../jekyll-serif-theme/event.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jekyll-serif-theme/stackbit.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../jekyll-serif-theme/stackbit.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/contact.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/contact.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/contact.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/menus.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/menus.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/social.json" beforeDir="false" afterPath="$PROJECT_DIR$/_data/social.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/team.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/teams.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_team/bill-mcdonald.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_team/mike-vance.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_team/peter-van-eijk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_team/robert-johnson.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_team/sage-kirk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_team/susan-shelton.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_team/tamara-ells.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/cristian-newman-94319-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/joseph-gonzalez-399972-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/michael-dam-258165-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/original/cristian-newman-94319-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/original/joseph-gonzalez-399972-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/original/michael-dam-258165-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/original/nonsap-visuals-kMJp7620W6U-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/original/peter-van-eijk-711986-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/original/sage-kirk-485982-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/original/sung-wang-g4DgCF90EM4-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/original/vince-fleming-613817-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/peter-van-eijk-711986-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/sage-kirk-485982-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/sung-wang-g4DgCF90EM4-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/vince-fleming-613817-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.md" beforeDir="false" afterPath="$PROJECT_DIR$/event.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stackbit.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/stackbit.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,14 +70,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647210984652</updated>
-      <workItem from="1647210985808" duration="6194000" />
+      <workItem from="1647210985808" duration="9977000" />
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1261" y="-118" width="602" height="490" key="find.popup" timestamp="1647218806680">
-      <screen x="-1920" y="-413" width="1920" height="1080" />
+    <state x="494" y="246" width="838" height="490" key="find.popup" timestamp="1647397588662">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="-1261" y="-118" width="602" height="490" key="find.popup/0.0.1440.900/-1920.-413.1920.1080@-1920.-413.1920.1080" timestamp="1647218806680" />
+    <state x="494" y="246" width="838" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1647397588662" />
   </component>
 </project>

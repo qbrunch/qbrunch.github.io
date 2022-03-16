@@ -10,7 +10,6 @@ pagesDir: ""
 pageLayoutKey: null
 logicFields:
   - service.weight
-  - team.weight
 models:
   config:
     type: config
@@ -64,7 +63,7 @@ models:
   services:
     type: page
     label: Services
-    file: services.md
+    file: event.md
     singleInstance: true
     fields:
       - type: string
@@ -79,27 +78,6 @@ models:
       - type: image
         name: intro_image
         label: Intro Image
-      - type: boolean
-        name: intro_image_absolute
-        label: Intro Image Absolute
-      - type: boolean
-        name: intro_image_hide_on_mobile
-        label: Intro Image Hide On Mobile
-  teams:
-    type: page
-    label: Teams
-    file: team.md
-    singleInstance: true
-    fields:
-      - type: string
-        name: title
-        label: Title
-      - type: string
-        name: layout
-        label: Layout
-      - type: string
-        name: permalink
-        label: Permalink
       - type: boolean
         name: intro_image_absolute
         label: Intro Image Absolute
@@ -150,39 +128,7 @@ models:
         options:
           - label: service
             value: service
-  team:
-    type: page
-    label: Team
-    folder: _team
-    fields:
-      - type: string
-        name: title
-        label: Title
-      - type: datetime
-        name: date
-        label: Date
-      - type: boolean
-        name: draft
-        label: Draft
-      - type: image
-        name: image
-        label: Image
-      - type: string
-        name: jobtitle
-      - type: string
-        name: linkedinurl
-      - type: number
-        name: weight
-        label: Weight
-        subtype: int
-      - type: string
-        name: layout
-        label: Layout
-        hidden: true
-        default: team
-      - type: boolean
-        name: promoted
-        label: Promoted
+
   contact:
     type: data
     label: Contact

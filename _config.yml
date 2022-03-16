@@ -13,8 +13,6 @@ logo:
 collections:
   services:
     output: true
-  team:
-    output: true
 
 defaults:
   - scope:
@@ -22,11 +20,7 @@ defaults:
       type: "services"
     values:
       layout: "service"
-  - scope:
-      path: ""
-      type: "team"
-    values:
-      layout: "team"
+
 
 sass:
   indentWidth: 4
